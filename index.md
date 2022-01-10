@@ -40,6 +40,8 @@
 
 [patchbayLayout](patchbayLayout)
 
+[umc1820 patchbay](umc1820-patchbay)
+
 # misc
 
 [juice](juice)
