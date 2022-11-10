@@ -13,6 +13,7 @@
 - <https://github.com/ljurk>
 - <https://gitlab.com/ljurk>
 - <https://pypi.org/user/ljurk/>
+- docker hub
 
 ## skills
 - Administration
@@ -25,42 +26,48 @@
 - docker
     - Erstellung und Nutzung unzähliger Docker-Images
     - Orchestrierung mit docker-compose und docker-swarm
+    - Erste Schritte mit kubernetes als Orchestrator
 - python
     - Entwicklung verschiedener REST-apis mit flask und docker
     - Entwicklung verschiedener Monitoring Lösungen mit influxdb
     - unittesting mit dem python-unittesting-framework und requests-mock
-- seit Jahren privat und beruflich unter GNU/Linux
+- seit Jahren privat und beruflich unter GNU/Linux unterwegs
     - Linux und Ich sind eine Todes-Kombi wie Leichenwagen
-    - Optimierte Arbeitsumgebung mit tmux und vim
+    - auf mich zugeschnittene Arbeitsumgebung mit tmux und vim
     - natürlicher Umgang in der shell
 - Versionierung/ci-cd
+    - ich habe versucht meine Arbeit mit git im Mittelpunkt zu erledige
     - (svn)
     - git
+    - Beispiel history?
     - gitlab-ci & travis
     - statische Code-Analyse
     - unittesting
     - deployment
 - datenbanken
     - mssql
-    - posteSQL
-    - influxdb
+    - postgreSQL
+    - influxdb/prometheus
     - mysql/mariadb
-- sprachen
+- tools
     - sehr gute Kenntnisse
         - python
-        - javascript
+        - ansible
         - c/c++
-        - markdown
-    - gute Kenntnisse
-        - C#
+        - (markdown)
+        - html/css/js
+        - docker/docker-compose/docker swarm
         - sql
-        - bash
+        - http-protokoll
+    - gute Kenntnisse
+        - (ba)sh
     - ausbaufähige Kenntnisse
+        - kubernetes
         - golang
         - Qt
         - OpenMPI
-- vorhande Fähigkeiten, die nicht weiter verfolgt werden
-    - Windows-server
+- vorhande Fähigkeiten, die ich nicht mehr nutzen möchte
+    - Windows(-server)
     - Active Directory
     - mssql
     - iis
@@ -74,6 +81,7 @@
     - Mitarbeit am Tool Vampir siehe: <https://vampir.eu/>
 - als Administrator in der Verwaltung
     - Anbindung der Verwaltungs-Domäne an das zentrale Identitätsmanagement der TUD
+    - Provisionierung von Client-PCs
 - als Basisadministrator für das Studierenden-Management-System
     - Einführung ansible, um die Windows Umgebung wie Linux zu administrieren
     - Einführung eines Monitorings mit influxdb und grafana
@@ -94,17 +102,17 @@
 - PCB und firmware eines eigenen Eurorack-Moduls(siehe: <https://gitlab.com/ljurk/clockDiv>)
 - dmenu/rofi frontend für Jira und Trello
 - Package Maintainer im AUR(siehe: <https://aur.archlinux.org/packages/python-jiramenu-git/>)
-
 - Beratung des DSC Turnvereins bei der Implementation Ihrer IT-Umgebung
 - Installation einer schmalen Linux-Umgebung nach eigenen Wünschen(siehe: <https://github.com/ljurk/init>)
 
 ## personal skills
 - ständig auf der Suche nach Innovationen und Verbesserungen
 - wissbegierig
-- selbstständig(das Internet ist der beste Lehrer)
+- selbständig(das Internet ist der beste Lehrer)
 - großer Fan von OpenSource-Lösungen
 - Selbstreflexion der eigenen Aufgaben und stetig auf der Suche nach Optimierungen und Ablösung von umständlichen Aufgaben
 - Linux-Bewustsein: monolithische Projekte in kleinere Bereiche aufteilen(Do one thing and do it well)
+- Computer>Menschen
 
 ## hobbys
 - Blödsinn mit Lötzinn
